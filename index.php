@@ -1,5 +1,5 @@
 <?php
 
-echo 'Hello World of EB- Test'
+echo 'Hello World EB'
 
 ?>
